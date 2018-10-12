@@ -4,7 +4,7 @@
 ### 官 网：[CreatorWorld][2]
 ### 服务器地址：群内获取
 
-    CreatorWorld从诞生到如今一直秉持原版、纯净的Minecraft风格，服务器开启正版验证。于2018.10.8与lod等服务器合并，统称为CreatorWorld，欢迎各位高素质玩家的加入。
+> CreatorWorld从诞生到如今一直秉持原版、纯净的Minecraft风格，服务器开启正版验证。于2018.10.8与lod等服务器合并，统称为CreatorWorld，欢迎各位高素质玩家的加入。
 
 
 
