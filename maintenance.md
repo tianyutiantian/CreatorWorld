@@ -1,6 +1,7 @@
 # CreatorWorld
 ## 这里是维护日志
-``` 20181012
+```
+## 20181012
 @requires_authorization
 class SomeClass:
     pass
